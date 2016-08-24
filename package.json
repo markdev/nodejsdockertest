@@ -1,0 +1,8 @@
+{
+	"name": "node-js-docker-test",
+	"description": "testing node js github repo with docker",
+	"version": "0.0.0",
+	"dependencies": {
+		"express": "3.*"
+	}
+}
